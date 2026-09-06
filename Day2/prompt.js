@@ -5,3 +5,4 @@ if(number<18){
 else{
     console.log("you are  eligible for vote");
 }
+console.log("Code Execution Successfully");
