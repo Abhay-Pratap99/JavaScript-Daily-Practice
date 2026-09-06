@@ -4,4 +4,5 @@ let i=b.trim();
 console.log(a);  //"Abhay"
 console.log(b);  //"   Pratap"
 console.log(i);  //"Pratap" The trim use another variable
-
+let c=a.toUpperCase();
+console.log(a);
